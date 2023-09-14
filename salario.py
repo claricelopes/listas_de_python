@@ -1,5 +1,5 @@
 hora = float(input('digite o numero de horas que você trabalhou: ')) 
-ganho = float(input('digite o valor que você por hora:')) 
+ganho = float(input('digite o valor que você ganha por hora:')) 
 
 salariob = ganho * hora
 IR = (salariob * 11/100)  
